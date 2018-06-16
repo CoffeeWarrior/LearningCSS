@@ -32,6 +32,13 @@ $breakpoint arguement choices:
 -tab-port
 -tab-land
 -big-desktop
+
+
+ORDER of media queries: 
+base + typography
+general layout + grid
+page layout
+components
 */
 
 @mixin respond($breakpoint){
